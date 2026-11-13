@@ -1,0 +1,11 @@
+build*/
+.clang*
+debug/
+.git
+.clang-format
+.cache*/
+main
+*.exe
+*.out
+*.swp
+
